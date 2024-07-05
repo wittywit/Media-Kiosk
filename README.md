@@ -1,4 +1,4 @@
-# Stele
+# Media Kiosk
 
 <img align="right" alt="Image of a Maya stele at Copan, by Frederick Catherwood" src="/resources/copan.png" />
 
