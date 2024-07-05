@@ -2,11 +2,11 @@
 
 <img align="right" alt="Image of a Maya stele at Copan, by Frederick Catherwood" src="/resources/copan.png" />
 
-Stele is an exhibit kiosk browser, built for the museum environment.
+Built for the museum environment.
 
 This app is meant to serve as a full-screen wrapper that simply views an existing web application.
 
-Download the [latest release for Windows or macOS](https://github.com/scimusmn/stele/releases/latest).
+
 
 # Install and setup
 Detailed instructions for:
@@ -35,10 +35,7 @@ When running the application you can use a few keyboard shortcuts to control the
 \* Hide application works on Windows. On Mac, we simply open the file explorer, pushing the Stele application into the background.
 
 # Security warning
-This app is built on the Electron runtime and is under active development. It doesn't yet follow all of Electron's best-practices around system security. Stele is primarily designed for local content that you trust. Don't configure it to browse to web content you don't trust. Web content theoretically could have access to execute system commands on your local machine. [Better checks, will be added in future releases.](https://github.com/scimusmn/stele/issues/20)
-
-# Development
-Follow the [development instructions](docs/development.md) to make changes to the Stele source code.
+This app is built on the Electron runtime and is under active development. It doesn't yet follow all of Electron's best-practices around system security. 
 
 # Credit
 ## What's a Stele?
